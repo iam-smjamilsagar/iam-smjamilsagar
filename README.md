@@ -6,7 +6,7 @@
 
 
 <!-- About -->
-<img align="right" height="270px" width="450px" alt="GIF" src="Files/about.gif" />
+<img align="right" height="320px" width="450px" alt="GIF" src="Files/about.gif" />
 
 <div align="left">
    <h2>About me:</h2>
