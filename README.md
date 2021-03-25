@@ -16,7 +16,7 @@
 
 <!-- Github Stats -->
 <h2>Github Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=iam-smjamilsagar&show_icons=true&theme=chartreuse-dark)
+
 
 
 
