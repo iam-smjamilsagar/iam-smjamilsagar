@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-smjamilsagar&layout=compact&theme=chartreuse-dark" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-smjamilsagar&" alt="iam-smjamilsagar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-smjamilsagar&theme=chartreuse-dark" alt="iam-smjamilsagar" /></p>
 
 
 
