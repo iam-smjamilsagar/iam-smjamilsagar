@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-smjamilsagar&layout=compact&theme=chartreuse-dark" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smjamilsagar)](https://github.com/iam-smjamilsagar/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@smjamilsagar)](https://github.com/iam-smjamilsagar/github-readme-stats)
 
 
 
