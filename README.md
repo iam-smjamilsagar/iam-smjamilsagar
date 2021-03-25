@@ -12,3 +12,15 @@
    <p>I am currently working at <a href="https://www.facebook.com/careerportalbd"><b>Career Portal.</b></a> I love creative things. I love to explore technologies and learn new things. I am interested in <b>Natural Language Processing (NLP), Computer Vision, Generative adversarial networks (GANs) etc.</b> I am currently learning stuffs like <b>Python, Machine Learning etc.</b></p>
 </div>
 <br>
+
+
+<h2>Github Stats:</h2>
+const themes = {
+  "chartreuse-dark": {
+    title_color: "7fff00",
+    icon_color: "00AEFF",
+    text_color: "fff",
+    bg_color: "000",
+  },
+};
+module.exports = themes;
