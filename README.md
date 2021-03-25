@@ -17,13 +17,13 @@
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:s.m.jamil.sagar1111@gmail.com"><img height="30" src="assets/gmail.png"></a></code>
-   <code><a href="https://www.facebook.com/iam.smjamilsagar"><img height="30" src="assets/facebook.svg"></a></code>
-   <code><a href="https://www.linkedin.com/in/iam-smjamilsagar"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://https://www.hackerrank.com/smjamilsagar"><img height="30" src="assets/hackerrank.svg"></a></code>
-   <code><a href="http://t.me/smjamilsagar"><img height="30" src="assets/telegram.svg"></a></code>
-   <code><a href="https://www.instagram.com/iam.smjamilsagar"><img height="30" src="assets/instagram.svg"></a></code>
-   <code><a href="https://twitter.com/smjamilsagar"><img height="30" src="assets/twitter.svg"></a></code>
+   <code><a href="mailto:s.m.jamil.sagar1111@gmail.com"><img height="30" src="Files/gmail.png"></a></code>
+   <code><a href="https://www.facebook.com/iam.smjamilsagar"><img height="30" src="Files/facebook.svg"></a></code>
+   <code><a href="https://www.linkedin.com/in/iam-smjamilsagar"><img height="30" src="Files/linkedin.svg"></a></code>
+   <code><a href="https://https://www.hackerrank.com/smjamilsagar"><img height="30" src="Files/hackerrank.svg"></a></code>
+   <code><a href="http://t.me/smjamilsagar"><img height="30" src="Files/telegram.svg"></a></code>
+   <code><a href="https://www.instagram.com/iam.smjamilsagar"><img height="30" src="Files/instagram.svg"></a></code>
+   <code><a href="https://twitter.com/smjamilsagar"><img height="30" src="Files/twitter.svg"></a></code>
 </div>
 
 
