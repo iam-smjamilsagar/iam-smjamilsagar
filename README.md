@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="S. M. Jamil Sagar" />
-</h1>
-
 
 <!-- Heading -->
 <div align="center">
