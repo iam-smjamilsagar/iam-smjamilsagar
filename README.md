@@ -16,4 +16,4 @@
 
 <h2>Github Stats:</h2>
 
-![Jamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-smjamilsagar&show_icons=true&theme=chartreuse-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-smjamilsagar&show_icons=true&theme=chartreuse-dark)
