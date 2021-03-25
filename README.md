@@ -24,6 +24,7 @@
    <code><a href="http://t.me/smjamilsagar"><img height="30" src="Files/telegram.svg"></a></code>
    <code><a href="https://www.instagram.com/iam.smjamilsagar"><img height="30" src="Files/instagram.svg"></a></code>
    <code><a href="https://twitter.com/smjamilsagar"><img height="30" src="Files/twitter.svg"></a></code>
+   <code><a href="https://www.youtube.com/channel/UCSVsPqz7Bh2ZTPMAKxeYwYg"><img height="30" src="Files/youtube.png"></a></code>
 </div>
 
 
