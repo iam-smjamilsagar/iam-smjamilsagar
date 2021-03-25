@@ -19,6 +19,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=iam-smjamilsagar&show_icons=true&theme=chartreuse-dark)
 
 
-<!-- GitHub Extra Pins -->
-<h2>GitHub Extra Pins</h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-smjamilsagar&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
