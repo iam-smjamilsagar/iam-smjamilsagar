@@ -23,17 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-smjamilsagar&layout=compact&theme=chartreuse-dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-smjamilsagar&repo=github-readme-stats&theme=chartreuse-dark" />
-</a>   
-
-<!--
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">   -->
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-smjamilsagar&repo=anuraghazra.github.io&theme=chartreuse-dark" />
-</a>
-
--->
 
 
