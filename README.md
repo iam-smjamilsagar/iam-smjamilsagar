@@ -28,6 +28,8 @@
 </div>
 
 
+### 💻Software Engineer. 🗺️Project Maker.
+
 <!-- Github Stats -->
 <h2>Github Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
