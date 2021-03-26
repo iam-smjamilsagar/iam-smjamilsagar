@@ -28,7 +28,7 @@
 </div>
 
 
-### 💻Software Engineer.  <p>   </p> ✌Project Maker.
+### 💻Software Engineer.   ✌Project Maker.  😇Positive Thinker
 
 
 <!-- Github Stats -->
