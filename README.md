@@ -28,7 +28,8 @@
 </div>
 
 
-### 💻Software Engineer. 🗺️Project Maker.
+### 💻Software Engineer.  ✌Project Maker.
+
 
 <!-- Github Stats -->
 <h2>Github Stats:</h2>
