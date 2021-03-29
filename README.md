@@ -18,7 +18,7 @@
 <div>
    <h2>Connect with me:</h2>
    <code><a href="mailto:s.m.jamil.sagar1111@gmail.com"><img height="35" src="Files/gmail.png"></a></code>
-   <code><a href="https://www.facebook.com/iam.smjamilsagar"><img height="40" src="Files/facebook.png" target="_blank"></a></code>
+   <code><a href="https://www.facebook.com/iam.smjamilsagar" target="_blank"><img height="40" src="Files/facebook.png"></a></code>
    <code><a href="https://www.linkedin.com/in/iam-smjamilsagar"><img height="40" src="Files/linkedin.png"></a></code>
    <code><a href="https://www.hackerrank.com/smjamilsagar"><img height="45" src="Files/hackerrank.svg"></a></code>
    <code><a href="http://t.me/smjamilsagar"><img height="40" src="Files/telegram.svg"></a></code>
